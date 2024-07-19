@@ -34,6 +34,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gravelord-lych&show_icons=true&locale=en&layout=compact" alt="gravelord-lych" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gravelord-lych&show_icons=true&locale=en" alt="gravelord-lych" /></p>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31yuhkwke6nuf3urxkmrhueudifm&count=2&width=475)
 <!--
 **Gravelord-Lych/Gravelord-Lych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
