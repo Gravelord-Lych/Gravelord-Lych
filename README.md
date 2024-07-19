@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Lych233 (a.k.a. Gravelord-Lych/Constance</h1>
+<h1 align="center">Hi 👋, I'm Lych233</h1>
 <h3 align="center">A Minecraft modder. A Bloons TD 6 player. An (amateur) OIer.</h3>
+<h4 align="center">a.k.a. Gravelord-Lych/Constance </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gravelord-lych&label=Profile%20views&color=0e75b6&style=flat" alt="gravelord-lych" /> </p>
 
