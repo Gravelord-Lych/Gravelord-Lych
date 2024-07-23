@@ -16,7 +16,7 @@
 
 - 📫 How to reach me: **lych233@constance.moe**
 
-- 😄 [Pronouns](https://en.pronouns.page/@Lych233#she/her): **She/Her** (or **Ae/Aer**)
+- 😄 [Pronouns](https://pronouns.constance.moe/#she/her/ae/aer): **She/Her** (or **Ae/Aer**)
 
 - ⚡ Fun fact: **Allergic to peaches**
 
