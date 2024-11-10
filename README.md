@@ -18,8 +18,6 @@
 
 - 😄 [Pronouns](https://pronouns.constance.moe/#she/her/ae/aer): **She/Her** (or **Ae/Aer**)
 
-- ⚡ Fun fact: **I'm allergic to peaches, and I experience virtual reality sickness from time to time when playing 3D games.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lych233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lych233" height="30" width="40" /></a>
