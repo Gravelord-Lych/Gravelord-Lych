@@ -16,7 +16,7 @@
 
 - 📫 How to reach me: **lych233@constance.moe**
 
-- 😄 [Pronouns](https://pronouns.constance.moe/#she/her/ae/aer): **She/Her** (or **Ae/Aer**)
+- 😄 [Pronouns](https://pronouns.constance.moe/#she/her/ae/aer): **She/Her** or **Ae/Aer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
