@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Lych233</h1>
-<h3 align="center">A Minecraft modder. A Bloons TD 6 player. A high school student currently preparing for the College Entrance Exam.</h3>
+<h3 align="center">A Minecraft modder. A Bloons TD 6 player.</h3>
 <h4 align="center">a.k.a. Gravelord-Lych/Constance </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gravelord-lych&label=Profile%20views&color=0e75b6&style=flat" alt="gravelord-lych" /> </p>
 
 - 🔭 I’m currently working on [Polonium](https://github.com/Gravelord-Lych/polonium).
 
-- 🌱 I’m currently learning **Minecraft modding, Olympiad in Informatics**.
+- 🌱 I’m currently learning **Minecraft modding**.
 
 - 🎮 I'm currently playing **Bloons TD 6**.
 
@@ -31,7 +31,7 @@
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gravelord-lych&show_icons=true&locale=en&layout=compact" alt="gravelord-lych" /></p>
-（Currently a high school student and don't have time for development...）
+（Currently don't have time for development...）
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gravelord-lych&show_icons=true&locale=en" alt="gravelord-lych" /></p>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31yuhkwke6nuf3urxkmrhueudifm&count=3&width=475)
